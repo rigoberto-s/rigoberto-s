@@ -24,9 +24,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
-
-<h3 align="center">Development</h3>
+## 💻 Development
 
 <div align="center">
 
@@ -36,7 +34,7 @@
 
 </div>
 
-<h3 align="center">Infrastructure & Tools</h3>
+## 🧰 Infrastructure & Tools
 
 <div align="center">
 
