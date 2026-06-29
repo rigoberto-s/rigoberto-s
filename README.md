@@ -30,7 +30,7 @@
 
 | Programming Languages | Frontend | Backend |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" /> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" /> |
+| <img src="https://skillicons.dev/icons?i=java,js,ts&theme=dark" alt="Java, JavaScript and TypeScript" /> | <img src="https://skillicons.dev/icons?i=react,css&theme=dark" alt="React and CSS" /> | <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" /> |
 
 </div>
 
@@ -40,7 +40,7 @@
 
 | Database | DevOps & Cloud | Tools |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" /> |
+| <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL and PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=docker,linux,arch,bash&theme=dark" alt="Docker, Linux, Arch and Bash" /> | <img src="https://skillicons.dev/icons?i=obsidian,postman,vscodium&theme=dark" alt="Obsidian, Postman and VSCodium" /> |
 
 </div>
 
